@@ -14,7 +14,7 @@ spring:
     host: smtp.yandex.com
     port: 587
     username: canpekdemir@yandex.com
-    password: ********
+    password: 111111111
     default-encoding: UTF-8
 server:
   port: 8080
